@@ -13,7 +13,6 @@ export function App() {
     <Button variant="danger"/>
     <Button variant="success"/>
     <Button/>
-    hduahd
     <GlobalStyle/>
   </ThemeProvider>
   )
